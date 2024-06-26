@@ -24,7 +24,7 @@ class Divisors {
         ArrayList<Integer> result = solution.findAllDevisors(number);
 
         for(int devisor : result){
-            System.err.print(devisor + " ");
+            System.out.print(devisor + " ");
         }
         System.out.println();
 

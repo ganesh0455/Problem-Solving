@@ -17,13 +17,13 @@ class ReversNumberSolution {
 class ReversNumber {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.err.print("Enter the number = ");
+        System.out.print("Enter the number = ");
         int number = scan.nextInt();
 
         ReversNumberSolution solution = new ReversNumberSolution();
         int result = solution.reverse_number(number);
 
-        System.err.println("Reversed number = "+ result);
+        System.out.println("Reversed number = "+ result);
 
         scan.close();
     }
