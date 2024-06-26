@@ -1,0 +1,7 @@
+int digit_count = (int) Math.log10(input_number)
+
+int numberToStringandItsLength = String.valueOf(num).length()
+
+int power = Math.pow(base, power)
+
+int SquareRootOfANumber = (int) Math.sqrt(number)
