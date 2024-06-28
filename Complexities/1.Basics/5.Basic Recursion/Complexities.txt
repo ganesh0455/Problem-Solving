@@ -1,0 +1,60 @@
+----------------------
+Print Name N times
+----------------------
+Problem: Print your Name N times using recursion
+
+T - O(N)
+S - O(N)
+
+----------------
+Print 1 to N
+----------------
+Problem: Print from 1 to N using Recursion
+
+T - O(N)
+S - O(N)
+
+----------------
+Print N to 1
+----------------
+Problem: Print from N to 1 using Recursion
+
+T - O(N)
+S - O(N)
+
+--------------------------------
+Sum of first N Natural Numbers
+--------------------------------
+Problem statement: Given a number ‘N’, find out the sum of the first N natural numbers.
+
+T - O(N)
+S - O(N)
+
+--------------------------------
+Factorial of a Number
+--------------------------------
+Problem Statement: Given a number X,  print its factorial.
+To obtain the factorial of a number, it has to be multiplied by all the whole numbers preceding it. More precisely X! = X*(X-1)*(X-2) … 1.
+Note: X  is always a positive number. 
+
+
+T - O(N)
+S - O(N)
+
+--------------------------------
+Reverse an array
+--------------------------------
+Problem Statement: You are given an array. The task is to reverse the array and print it. 
+
+T - O(N)
+S - O(1)
+
+--------------------------------
+String is palindrome or not
+--------------------------------
+Problem Statement: "Given a string, check if the string is palindrome or not."  A string is said to be palindrome if the reverse of the string is the same as the string.
+
+T - O(N/2) => O(N)
+S - O(1)
+
+

@@ -5,3 +5,9 @@ int numberToStringandItsLength = String.valueOf(num).length()
 int power = Math.pow(base, power)
 
 int SquareRootOfANumber = (int) Math.sqrt(number)
+
+static void reverseArray(Integer arr[]) {
+      //fetching array as list object
+      //reversing the fetched object
+      Collections.reverse(Arrays.asList(arr));
+}
